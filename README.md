@@ -1,4 +1,4 @@
-# portfolio-html-magali
+# html-portfolio
 
 HTML assignment 1 - portfolio landing page
 
